@@ -26,3 +26,4 @@ G:\Workspace\WebServer\obj\Debug\net9.0\refint\WebServer.dll
 G:\Workspace\WebServer\obj\Debug\net9.0\WebServer.pdb
 G:\Workspace\WebServer\obj\Debug\net9.0\WebServer.genruntimeconfig.cache
 G:\Workspace\WebServer\obj\Debug\net9.0\ref\WebServer.dll
+G:\Workspace\WebServer\obj\Debug\net9.0\WebServer.sourcelink.json
